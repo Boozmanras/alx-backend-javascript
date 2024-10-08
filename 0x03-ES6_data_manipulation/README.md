@@ -64,9 +64,9 @@ This project is a collection of JavaScript functions that demonstrate ES6 data m
 - All functions must be exported
 
 ## Setup
-1. Install NodeJS 12.11.x
+1. Install NodeJS 20.x
 ```bash
-curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
+curl -sL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
 sudo bash nodesource_setup.sh
 sudo apt install nodejs -y
 ```
