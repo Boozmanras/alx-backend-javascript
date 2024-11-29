@@ -1,0 +1,29 @@
+{
+  "name": "9-api",
+  "version": "1.0.0",
+  "description": "API development for project part 9, possibly focusing on advanced endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "javascript",
+    "mocha",
+    "chai",
+    "sinon"
+  ],
+  "author": "victor paul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "chai": "^4.3.7",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "sinon": "^15.2.0"
+  }
+}
